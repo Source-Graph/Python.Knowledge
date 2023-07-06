@@ -8,3 +8,5 @@ https://pynative.com/python/object-oriented-programming/
 - https://pynative.com/python-class-method/
 - https://pynative.com/python-instance-methods/
 - https://pynative.com/python-static-method/
+
+Comparison: https://pynative.com/python-class-method-vs-static-method-vs-instance-method/
