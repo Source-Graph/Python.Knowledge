@@ -1,0 +1,2 @@
+- https://pynative.com/python-class-variables/
+- https://pynative.com/python-class-method/
