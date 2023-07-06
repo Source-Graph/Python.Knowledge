@@ -11,6 +11,7 @@ Doc: https://docs.python.org/3/library/itertools.html
 [sch:](https://www.youtube.com/results?search_query=python+itertools)
 - 
 
+# Function:
 ## consume()
 sch: https://www.google.com/search?q=python+itertools+consume
 - https://github.com/more-itertools/more-itertools/issues/251
