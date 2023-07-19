@@ -5,5 +5,8 @@ guide:
 - https://realpython.com/list-comprehension-python/
 - https://www.w3schools.com/python/python_lists_comprehension.asp
 
+# tutorial
+- [by: Socratica - List Comprehension](https://youtu.be/AhSvKGTh28Q)
+
 # Course:
 - playlist: [Ultimate Guide to Python List Comprehensions (Tutorial Series)](https://www.youtube.com/playlist?list=PL4eU-_ytIUt8oN3Mqp1reD8_xeVNMn0EW)
